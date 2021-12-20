@@ -10,4 +10,4 @@
 --------
 
 ## Current Status
-- Unrealeased, Unfinished
+- Unrealeased, Unfinished however source code is available.
