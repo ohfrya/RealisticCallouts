@@ -8,7 +8,7 @@
 - Disturbance
 
 --------
-## Credits
+## Credit
 This callout pack would not be where it is today without the help of a few developers open source projects. Specifically, the main reference for this callout pack is [UnitedCallouts by sEbi3](https://github.com/sEbi3/UnitedCallouts/)
 
 --------
